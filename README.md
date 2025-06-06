@@ -1,2 +1,2 @@
-# SSL-
+# SSL
 self supervised learning algorithms
